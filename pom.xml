@@ -2,7 +2,6 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.maven</groupId>
 	<artifactId>EmployeeService1</artifactId>
-	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>employee-service</name>
 	<url>http://maven.apache.org</url>
